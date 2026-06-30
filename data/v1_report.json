@@ -1,0 +1,89 @@
+{
+  "dataset": "data\\v1_dataset.csv",
+  "model": "data\\v1_model.json",
+  "total_rows": 122,
+  "accepted_rows": 116,
+  "rejected_rows": 6,
+  "target_ranges": {
+    "L_3p75_nH": {
+      "min": 1.3641942268484282,
+      "max": 5.790179087672767,
+      "mean": 3.177695674284096
+    },
+    "Q_3p75": {
+      "min": 27.063772094896358,
+      "max": 40.42170950848152,
+      "mean": 34.588683719691936
+    },
+    "Q_3p0": {
+      "min": 23.33732421132717,
+      "max": 36.019040699814,
+      "mean": 30.166273526254237
+    },
+    "Q_4p5": {
+      "min": 30.578914819393127,
+      "max": 43.98858135986266,
+      "mean": 38.352434088944264
+    }
+  },
+  "surrogate": "quadratic",
+  "training": {
+    "n_samples": 116,
+    "n_train": 93,
+    "n_val": 23,
+    "val_ratio": 0.2
+  },
+  "metrics": {
+    "linear": {
+      "rmse_L_3p75_nH": 0.2013910045393013,
+      "rmse_Q_3p75": 0.5252499334516608,
+      "rmse_Q_3p0": 0.3748142297188107,
+      "rmse_Q_4p5": 0.8212093552482563,
+      "r2_L_3p75_nH": 0.9810869189767765,
+      "r2_Q_3p75": 0.9807790344291001,
+      "r2_Q_3p0": 0.9899842430853683,
+      "r2_Q_4p5": 0.9499175384094145
+    },
+    "quadratic": {
+      "rmse_L_3p75_nH": 0.015099985461209482,
+      "rmse_Q_3p75": 0.4814612904460152,
+      "rmse_Q_3p0": 0.354200650538752,
+      "rmse_Q_4p5": 0.6605268123397631,
+      "r2_L_3p75_nH": 0.9998936750456308,
+      "r2_Q_3p75": 0.9838502449444939,
+      "r2_Q_3p0": 0.9910556179014205,
+      "r2_Q_4p5": 0.967598971745643
+    }
+  },
+  "emx_batch": {
+    "succeeded": 80,
+    "skipped": 42,
+    "failed": []
+  },
+  "rejected": [
+    {
+      "candidate_id": "LQ_N4p5_R68_W10p4_S15",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R68_W11p2_S16",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R76_W10p4_S15",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R76_W11p2_S16",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R84_W10p4_S15",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R84_W11p2_S16",
+      "reason": "L_3p75_nH outside [1.0, 6.0]"
+    }
+  ]
+}

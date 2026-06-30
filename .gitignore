@@ -1,0 +1,23 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Keep generated EMX reference artifacts in this release repository.
+# The workflow is intended to be reproducible from the committed examples.
+!runs/**
+!*.gds
+!*.s2p
+
+# Local Cadence/runtime scratch that is not useful for reviewers.
+*.raw
+*.psf
+*.cdslck
+*.pid
+*.tmp
+strmout.log
+strmout.summary
+

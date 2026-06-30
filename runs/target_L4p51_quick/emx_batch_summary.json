@@ -1,0 +1,41 @@
+{
+  "manifest": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\runs\\target_L4p51_quick\\manifest.csv",
+  "elapsed_seconds": 80.85496735572815,
+  "stopped_due_to_time_budget": false,
+  "succeeded": [],
+  "skipped": [],
+  "failed": [
+    {
+      "candidate_id": "LQ_N4p5_R48p05_W10p4_S14",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48p05_W10p4_S14/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48p05_W10p4_S14/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48p05_W10p4_S14/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R48_W10p4_S14",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48_W10p4_S14/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48_W10p4_S14/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R48_W10p4_S14/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R47p95_W10p4_S14",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p95_W10p4_S14/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p95_W10p4_S14/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p95_W10p4_S14/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R47p9_W10p4_S14",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p9_W10p4_S14/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p9_W10p4_S14/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R47p9_W10p4_S14/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R46p75_W10p4_S15",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p75_W10p4_S15/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p75_W10p4_S15/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p75_W10p4_S15/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R46p7_W10p4_S15",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p7_W10p4_S15/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p7_W10p4_S15/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p7_W10p4_S15/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R46p65_W10p4_S15",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p65_W10p4_S15/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p65_W10p4_S15/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p65_W10p4_S15/emx.log"
+    },
+    {
+      "candidate_id": "LQ_N4p5_R46p6_W10p4_S15",
+      "reason": "paramiko.ssh_exception.AuthenticationException: Authentication timeout.; remote logs: virtuoso_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p6_W10p4_S15/virtuoso.log, strmout_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p6_W10p4_S15/strmout.log, emx_log=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N4p5_R46p6_W10p4_S15/emx.log"
+    }
+  ]
+}

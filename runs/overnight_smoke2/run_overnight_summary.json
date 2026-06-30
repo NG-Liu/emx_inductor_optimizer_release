@@ -1,0 +1,14 @@
+{
+  "root": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\runs\\overnight_smoke2",
+  "manifest": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\runs\\overnight_smoke2\\manifest.csv",
+  "target_count": 10,
+  "hours": 0.02,
+  "emx_exit_code": null,
+  "elapsed_seconds": 1.271,
+  "outputs": {
+    "overnight_dataset": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\data\\overnight_v2_dataset.csv",
+    "merged_dataset": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\data\\v2_dataset.csv",
+    "model": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\data\\v2_model.json",
+    "report": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\data\\v2_report.json"
+  }
+}

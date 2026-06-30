@@ -1,0 +1,16 @@
+! Touchstone simulation data from EMX version 6.0
+! Mon Jun 29 21:52:01 2026
+! EMX was run as:
+! /home/IC/EDA/INTEGRAND60/bin/emx
+! /home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N2p5_R92_W12_S18/LQ_N2p5_R92_W12_S18.gds
+! LQ_N2p5_R92_W12_S18
+! /home/IC/EDA/INTEGRAND60/virtuoso_ui/emxinterface/processes/fdl_stack.proc
+! --3d=m4,m5 --via-sidewalls=v4 --via-inductance=v4 --sweep 3e9 4.5e9
+! --sweep-stepsize=5e8 --format=touchstone --s-impedance=50
+! --s-file=/home/IC/EDA/single_inductor_lq_surrogate/emx/LQ_N2p5_R92_W12_S18/LQ_N2p5_R92_W12_S18.s2p
+! --internal=P1,m5,8 --internal=P2,m5,8 -p Pdiff=P1:P2 --include-command-line
+# Hz S RI R 50
+3.000000e+09 -3.906690e-02 9.697765e-01
+3.500000e+09 1.162401e-01 9.665314e-01
+4.000000e+09 2.492310e-01 9.438163e-01
+4.500000e+09 3.616043e-01 9.092980e-01

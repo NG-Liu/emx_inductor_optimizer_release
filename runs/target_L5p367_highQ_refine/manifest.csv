@@ -1,0 +1,4 @@
+candidate_id,r0_um,N_turns,sides,W_um,S_um,left_bridge_um,right_bridge_um,fdl_path,skill_path,gds_path,s2p_path
+LQ_N3p5_R101p25_W10p4_S15,101.25,3.5,12,10.4,15.0,180.0,180.0,fdl/LQ_N3p5_R101p25_W10p4_S15.py,skill/LQ_N3p5_R101p25_W10p4_S15.il,gds/LQ_N3p5_R101p25_W10p4_S15.gds,s2p/LQ_N3p5_R101p25_W10p4_S15.s2p
+LQ_N3p5_R101p35_W10p4_S15,101.35,3.5,12,10.4,15.0,180.0,180.0,fdl/LQ_N3p5_R101p35_W10p4_S15.py,skill/LQ_N3p5_R101p35_W10p4_S15.il,gds/LQ_N3p5_R101p35_W10p4_S15.gds,s2p/LQ_N3p5_R101p35_W10p4_S15.s2p
+LQ_N3p5_R101p45_W10p4_S15,101.45,3.5,12,10.4,15.0,180.0,180.0,fdl/LQ_N3p5_R101p45_W10p4_S15.py,skill/LQ_N3p5_R101p45_W10p4_S15.il,gds/LQ_N3p5_R101p45_W10p4_S15.gds,s2p/LQ_N3p5_R101p45_W10p4_S15.s2p

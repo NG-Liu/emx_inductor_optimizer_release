@@ -1,0 +1,6 @@
+candidate_id,r0_um,N_turns,sides,W_um,S_um,left_bridge_um,right_bridge_um,fdl_path,skill_path,gds_path,s2p_path
+SH_N2p5_R96_W12_S18,96.0,2.5,12,12.0,18.0,180.0,180.0,fdl/SH_N2p5_R96_W12_S18.py,skill/SH_N2p5_R96_W12_S18.il,gds/SH_N2p5_R96_W12_S18.gds,s2p/SH_N2p5_R96_W12_S18.s2p
+SH_N2p5_R95_W12_S18,95.0,2.5,12,12.0,18.0,180.0,180.0,fdl/SH_N2p5_R95_W12_S18.py,skill/SH_N2p5_R95_W12_S18.il,gds/SH_N2p5_R95_W12_S18.gds,s2p/SH_N2p5_R95_W12_S18.s2p
+SH_N2p5_R94_W12_S18,94.0,2.5,12,12.0,18.0,180.0,180.0,fdl/SH_N2p5_R94_W12_S18.py,skill/SH_N2p5_R94_W12_S18.il,gds/SH_N2p5_R94_W12_S18.gds,s2p/SH_N2p5_R94_W12_S18.s2p
+SH_N2p5_R93_W12_S18,93.0,2.5,12,12.0,18.0,180.0,180.0,fdl/SH_N2p5_R93_W12_S18.py,skill/SH_N2p5_R93_W12_S18.il,gds/SH_N2p5_R93_W12_S18.gds,s2p/SH_N2p5_R93_W12_S18.s2p
+SH_N2p5_R92_W12_S18,92.0,2.5,12,12.0,18.0,180.0,180.0,fdl/SH_N2p5_R92_W12_S18.py,skill/SH_N2p5_R92_W12_S18.il,gds/SH_N2p5_R92_W12_S18.gds,s2p/SH_N2p5_R92_W12_S18.s2p

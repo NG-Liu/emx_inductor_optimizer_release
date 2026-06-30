@@ -1,0 +1,126 @@
+{
+  "target_count": 10,
+  "pool_count": 1457,
+  "selected_count": 10,
+  "r0_step_um": 1.0,
+  "min_l_nh": 1.0,
+  "max_l_nh": 6.0,
+  "per_band_bin_limit": 8,
+  "L_model": "quadratic",
+  "Q_model": "linear",
+  "bin_counts": {
+    "1.0-1.5": 1,
+    "1.5-2.0": 1,
+    "2.0-2.5": 1,
+    "2.5-3.0": 1,
+    "3.0-3.5": 1,
+    "3.5-4.0": 1,
+    "4.0-4.5": 1,
+    "4.5-5.0": 1,
+    "5.0-5.5": 1,
+    "5.5-6.0": 1
+  },
+  "candidates": [
+    {
+      "candidate_id": "LQ_N2p5_R96_W12_S18",
+      "r0_um": 96.0,
+      "N_turns": 2.5,
+      "W_um": 12.0,
+      "S_um": 18.0,
+      "L_3p75_nH_pred": 1.255761668306342,
+      "Q_3p75_pred": 47.3949177509364,
+      "bin_index": 0
+    },
+    {
+      "candidate_id": "LQ_N2p5_R75_W12_S18",
+      "r0_um": 75.0,
+      "N_turns": 2.5,
+      "W_um": 12.0,
+      "S_um": 18.0,
+      "L_3p75_nH_pred": 1.5140812985302496,
+      "Q_3p75_pred": 42.63546701188885,
+      "bin_index": 1
+    },
+    {
+      "candidate_id": "LQ_N2p5_R96_W11p2_S16",
+      "r0_um": 96.0,
+      "N_turns": 2.5,
+      "W_um": 11.2,
+      "S_um": 16.0,
+      "L_3p75_nH_pred": 2.2286988742997007,
+      "Q_3p75_pred": 42.7867158268764,
+      "bin_index": 2
+    },
+    {
+      "candidate_id": "LQ_N2p5_R96_W10p4_S15",
+      "r0_um": 96.0,
+      "N_turns": 2.5,
+      "W_um": 10.4,
+      "S_um": 15.0,
+      "L_3p75_nH_pred": 2.6011423118608192,
+      "Q_3p75_pred": 40.89504913264389,
+      "bin_index": 3
+    },
+    {
+      "candidate_id": "LQ_N3p5_R72_W12_S18",
+      "r0_um": 72.0,
+      "N_turns": 3.5,
+      "W_um": 12.0,
+      "S_um": 18.0,
+      "L_3p75_nH_pred": 3.4883345236499084,
+      "Q_3p75_pred": 42.99176660997992,
+      "bin_index": 4
+    },
+    {
+      "candidate_id": "LQ_N3p5_R87_W12_S18",
+      "r0_um": 87.0,
+      "N_turns": 3.5,
+      "W_um": 12.0,
+      "S_um": 18.0,
+      "L_3p75_nH_pred": 3.9800499940907486,
+      "Q_3p75_pred": 46.391374280728165,
+      "bin_index": 5
+    },
+    {
+      "candidate_id": "LQ_N3p5_R92_W12_S18",
+      "r0_um": 92.0,
+      "N_turns": 3.5,
+      "W_um": 12.0,
+      "S_um": 18.0,
+      "L_3p75_nH_pred": 4.157949491646492,
+      "Q_3p75_pred": 47.524576837644254,
+      "bin_index": 6
+    },
+    {
+      "candidate_id": "LQ_N3p5_R92_W11p2_S16",
+      "r0_um": 92.0,
+      "N_turns": 3.5,
+      "W_um": 11.2,
+      "S_um": 16.0,
+      "L_3p75_nH_pred": 4.707472720041526,
+      "Q_3p75_pred": 44.16341499026915,
+      "bin_index": 7
+    },
+    {
+      "candidate_id": "LQ_N4p5_R68_W9p6_S12",
+      "r0_um": 68.0,
+      "N_turns": 4.5,
+      "W_um": 9.6,
+      "S_um": 12.0,
+      "L_3p75_nH_pred": 5.453110230481967,
+      "Q_3p75_pred": 42.60589751999275,
+      "bin_index": 8
+    },
+    {
+      "candidate_id": "LQ_N4p5_R70_W10p4_S12",
+      "r0_um": 70.0,
+      "N_turns": 4.5,
+      "W_um": 10.4,
+      "S_um": 12.0,
+      "L_3p75_nH_pred": 5.756621903005255,
+      "Q_3p75_pred": 43.71532369609403,
+      "bin_index": 9
+    }
+  ],
+  "manifest": "C:\\Users\\mechrevo\\Desktop\\single_inductor_lq_surrogate\\runs\\overnight_smoke2\\manifest.csv"
+}

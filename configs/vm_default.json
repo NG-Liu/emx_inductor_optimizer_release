@@ -1,0 +1,12 @@
+{
+  "host": "192.168.37.128",
+  "user": "IC",
+  "password": "user1111",
+  "remote_root": "/home/IC/EDA/single_inductor_lq_surrogate",
+  "cadence_lib": "codex_fdl_bridge",
+  "cadence_lib_path": "/home/IC/EDA/codex_fdl_bridge",
+  "tech_lib": "smic13mmrf_1233",
+  "layermap": "/home/IC/Tech/PDK_13mmrf_1P6M_30k/smic13mmrf_1233/smic13mmrf_1233.layermap",
+  "emx_bin": "/home/IC/EDA/INTEGRAND60/bin/emx",
+  "process_file": "/home/IC/EDA/INTEGRAND60/virtuoso_ui/emxinterface/processes/fdl_stack.proc"
+}
